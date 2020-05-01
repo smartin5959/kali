@@ -1,0 +1,2 @@
+# kali
+Dumi repo
